@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MiColombia</string>
+
+    <string-array name="ciudades_array">
+        <item>Medellín</item>
+        <item>Villavicencio</item>
+        <item>Cali</item>
+
+    </string-array>
+
+    <style name="RoundedTopCorners" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">24dp</item>
+        <item name="cornerSizeTopRight">24dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+
+    <string-array name="descripciones_array">
+        <item>Medellín, capital de Antioquia, se ubica en el Valle de Aburrá y es conocida como la ciudad de la eterna primavera por su clima templado durante todo el año. Destaca por su Metro, el primer sistema de este tipo en Colombia, sus cables aéreos y la Feria de las Flores, que cada año llena la ciudad de silleteros y color. Puedes visitar la Comuna 13, el Parque Arví y el Jardín Botánico, y muy cerca está el pueblo de Guatapé.</item>
+        <item>Villavicencio, capital del Meta, es la puerta de entrada a los Llanos Orientales. Su cultura gira en torno al joropo, el coleo, la ganadería y una gastronomía basada en la carne a la llanera. Se ve la inmensidad de la llanura al atardecer, y en la ciudad y sus alrededores puedes visitar el Bioparque Los Ocarros, el Parque Los Fundadores y sitios de ecoturismo cercanos.</item>
+        <item>Cali, capital del Valle del Cauca, es reconocida como la capital mundial de la salsa. Su ambiente musical y su gente alegre la hacen única, y cada diciembre celebra la Feria de Cali. Entre sus lugares más visitados están el Cristo Rey, el Zoológico de Cali, el barrio San Antonio y el río Cali, además de una gran variedad de comida como el sancocho de gallina y el champús.</item>
+    </string-array>
+</resources>
